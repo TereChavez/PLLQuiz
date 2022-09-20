@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PLLQuiz</string>
+
+    <string name="question_pll">¿Alison esta viva?</string>
+    <string name="question_temp">¿Mona es A?</string>
+    <string name="question_game">¿jenna es amiga de alison?</string>
+    <string name="question_sev">¿Pretty Little LLiars tiene 7 temporadas?</string>
+    <string name="question_her">¿alex drake y spencer hastings son la misma persona?</string>
+    <string name="question_prim">¿Alison y spencer son primas?</string>
+    <string name="question_mom">¿Mary Drake es mamá de spencer?</string>
+    <string name="question_al">¿Alex se hace pasar por spencer?</string>
+    <string name="question_sp">¿Alex y spencer son hermanas?</string>
+    <string name="question_ce">¿Cece drake es hermana de spencer?</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="correct_toast">¡CORRECTO!</string>
+    <string name="incorrect_toast">¡INCORRECTO!</string>
+
+
+</resources>
